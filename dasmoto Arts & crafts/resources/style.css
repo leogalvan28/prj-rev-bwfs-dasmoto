@@ -1,0 +1,35 @@
+p {
+	font-size: 16px;
+}
+
+h1, h2, h3, p{
+	font-family: "helvetica";
+}
+
+.encabezado h1 {
+	font-size: 100px;
+	color:#f0e68c;
+	background-image: url(img/pattern.jpeg);
+	text-align: center;
+}
+
+.precio{
+	color:blue;
+	font-weight: bold;
+}
+
+.section1 h1{
+	background-color: #00fa9a;
+	color:white;
+}
+
+.section2 h1{
+	background-color: #f08080;
+	color: white;
+}
+
+.section3 h1 {
+	background-color: #87ceeb;
+	color: white;
+}
+
